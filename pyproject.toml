@@ -18,6 +18,8 @@ bs4 = "^0.0.1"
 javascript = "^2015.32.59"
 pygame = "^2.1.2"
 pytest-browser = "^0.2.0"
+Pillow = "^9.3.0"
+waitress = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 
